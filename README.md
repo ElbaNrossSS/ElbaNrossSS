@@ -8,7 +8,7 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1045401575348256858)](https://discord.com/users/1045401575348256858)
- 
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/790535821991608340)](https://discord.com/users/790535821991608340)
 
 ```js
 class ravgar {
