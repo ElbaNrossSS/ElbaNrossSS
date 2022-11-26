@@ -8,7 +8,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1045401575348256858)](https://discord.com/users/1045401575348256858)
 ```js
-class ravgar {
+class ElbaNrosSS {
     constructor(options) {
         this.name = "Barış",
         this.sex = "man",
