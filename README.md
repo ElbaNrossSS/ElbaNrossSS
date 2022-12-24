@@ -4,7 +4,9 @@
   <img src="https://profile-counter.glitch.me/ElbaNrosSS/count.svg" />
 </p>
 
+
 <p align="center">
+animeciler için sayaç <br>
   <img src="https://count.getloli.com/get/@ElbaNrosSS?theme=rule34" />
 </p>
 
