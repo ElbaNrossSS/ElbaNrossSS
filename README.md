@@ -4,14 +4,6 @@
   <img src="https://profile-counter.glitch.me/ElbaNrosSS/count.svg" />
 </p>
 
-
-<p align="center">
-Animeciler için sayaç <br>
-  <img src="https://count.getloli.com/get/@ElbaNrosSS?theme=rule34" />
-</p>
-
-
-<br />
 <p align="center">
  <a href="https://discord.com/users/1045401575348256858" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
