@@ -6,7 +6,7 @@
 
 
 <p align="center">
-animeciler için sayaç <br>
+Animeciler için sayaç <br>
   <img src="https://count.getloli.com/get/@ElbaNrosSS?theme=rule34" />
 </p>
 
