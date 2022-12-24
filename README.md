@@ -3,7 +3,7 @@
  Profilimi Ziyaret Eden Kişi Sayısı<br>
   <img src="https://profile-counter.glitch.me/ElbaNrosSS/count.svg" />
 </p>
-
+<br>
 ![thoughtworks-gif_dribbble](https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif)
 
 
