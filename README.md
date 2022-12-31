@@ -1,8 +1,10 @@
  <p align="center"> 
  Profilimi Ziyaret Eden Kişi Sayısı<br>
   <img src="https://profile-counter.glitch.me/ElbaNrosSS/count.svg" />
-<img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif"/>
 
+<video controls autoplay>
+<img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif"/>
+</video>
 </p>
 
 
