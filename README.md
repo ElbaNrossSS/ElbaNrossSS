@@ -4,8 +4,7 @@
 
 
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1045401575348256858)](https://discord.com/users/1045401575348256858)
+[![Discord Presence](https://lanyard.cnrad.dev/api/924646646564933642)](https://discord.com/users/924646646564933642)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElbaNrossSS&show_icons=true&theme=dracula&locale=en" alt="ElbaNrossSS" /></p>
 
